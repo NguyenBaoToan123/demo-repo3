@@ -1,0 +1,1 @@
+print("Học giỏi và được sponsor nhen")
